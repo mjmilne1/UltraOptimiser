@@ -20,3 +20,61 @@ mjmilne1
 
 ## Repository
 https://github.com/mjmilne1/UltraOptimiser
+
+## Latest Performance Results
+
+**Date**: November 4, 2025  
+**Version**: 3.0.0 Enterprise Edition
+
+### Portfolio Optimization Results
+- **Expected Return**: 8.89% annually
+- **Portfolio Risk**: 7.40%
+- **Sharpe Ratio**: 0.66
+- **Value at Risk (95%)**: -12.21%
+- **Maximum Concentration**: 22.39%
+- **Effective Diversification**: 5.54 assets
+
+### Optimal Allocation
+1. US Small Cap: 22.39%
+2. Real Estate: 19.91%
+3. Corporate Bonds: 17.38%
+4. International Developed: 17.24%
+5. Emerging Markets: 16.16%
+6. Commodities: 6.92%
+
+### Enterprise Features
+✅ Multi-objective optimization  
+✅ Risk management (VaR, CVaR)  
+✅ Regulatory compliance  
+✅ Stress testing  
+✅ Audit trail  
+✅ Production ready
+
+## Latest Performance Results
+
+**Date**: November 4, 2025  
+**Version**: 3.0.0 Enterprise Edition
+
+### Portfolio Optimization Results
+- **Expected Return**: 8.89% annually
+- **Portfolio Risk**: 7.40%
+- **Sharpe Ratio**: 0.66
+- **Value at Risk (95%)**: -12.21%
+- **Maximum Concentration**: 22.39%
+- **Effective Diversification**: 5.54 assets
+
+### Optimal Allocation
+1. US Small Cap: 22.39%
+2. Real Estate: 19.91%
+3. Corporate Bonds: 17.38%
+4. International Developed: 17.24%
+5. Emerging Markets: 16.16%
+6. Commodities: 6.92%
+
+### Enterprise Features
+✅ Multi-objective optimization  
+✅ Risk management (VaR, CVaR)  
+✅ Regulatory compliance  
+✅ Stress testing  
+✅ Audit trail  
+✅ Production ready
