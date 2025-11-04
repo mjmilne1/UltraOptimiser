@@ -1,0 +1,12 @@
+﻿version: '3.8'
+
+services:
+  optimizer:
+    build: .
+    container_name: ultraoptimiser
+    volumes:
+      - ./data:/app/data
+      - ./outputs:/app/outputs
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python examples_real_world.py
